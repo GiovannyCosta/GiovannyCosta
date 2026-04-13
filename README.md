@@ -27,22 +27,6 @@
 </div>
 
 ###
-<h3 align="left">📊 Estatísticas</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovannyCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=nightowl&hide_border=false&order=2&custom_title=Tecnologias" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovannyCosta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false&order=1&custom_title=Estat%C3%ADstsicas%20de%20Gio.Env" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=GiovannyCosta&locale=pt-br&mode=daily&theme=nightowl&hide_border=false&border_radius=50&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovannyCosta/GiovannyCosta/output/pacman-contribution-graph-dark.svg">
